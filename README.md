@@ -1,4 +1,4 @@
-# Salut 👋, moi c’est [Ton Prénom] !
+# Salut 👋, moi c’est Charles !
 
 🎓 Étudiant en Licence Informatique à l'Université de La Rochelle  
 📍 Je viens de valider ma 2ème année (L2)  
