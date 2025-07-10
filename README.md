@@ -26,6 +26,6 @@
 ## 📫 Me contacter
 - ✉️ [charles.gery@etudiant.univ-lr.fr](mailto:charles.gery@etudiant.univ-lr.fr)
 - 💼 [LinkedIn](https://linkedin.com/in/charles-gery)
-- 🌍 [Portfolio (En cours...)]
+- 🌍 [Portfolio (en cours...)](https://gery-charles.github.io/portfolio/)
 
 
