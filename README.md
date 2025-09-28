@@ -7,7 +7,8 @@
 ## 🛠️ Compétences
 - **Web :** PHP, Symfony, Twig, HTML/CSS, JavaScript, Bootstrap
 - **Logiciels :** Java, UML, JavaFX, POO
-- **Outils :** Git, GitHub, VSCode, MySQL, Postman
+- **Outils :** Git, GitHub, VSCode, MySQL
+- **Data :** Traitement du signal, Analyse de données
 
 ## 💼 Projets marquants
 ### 🔗 Plateforme de mise en relation clients / freelances
@@ -21,7 +22,7 @@
 ## 🌱 En ce moment je :
 - Prépare ma 3e année de licence
 - Améliore mes compétences en Symfony et Java
-- Recherche un **stage** dans le développement web ou logiciel
+- Recherche un **stage** dans le développement web/logiciel ou le traitement de signaux
 
 ## 📫 Me contacter
 - ✉️ [charles.gery@etudiant.univ-lr.fr](mailto:charles.gery@etudiant.univ-lr.fr)
