@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Étudiant en Licence Informatique à l'Université de La Rochelle<br>📍 Je viens de valider ma 2ème année (L2)<br>🌐 Passionné par le développement web | logiciel mais aussi le traitement de signaux<br><br>🌱 En ce moment je :<br>Prépare ma 3e année de licence<br>Améliore mes compétences en Symfony et Java<br>Recherche un stage dans le développement web/logiciel ou le traitement de signaux
+🎓 Étudiant en Licence Informatique à l'Université de La Rochelle<br>📍 Je viens de valider ma 2ème année (L2)<br>🌐 Passionné par le développement web | logiciel mais aussi le traitement de signaux<br><br>🌱 En ce moment je :<br>Prépare ma 3e année de licence<br>Améliore mes compétences traitement du signal<br>Recherche un stage dans le développement web/logiciel ou le traitement de signaux
 
 
 ## 🌐 Socials:
